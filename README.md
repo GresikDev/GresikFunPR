@@ -8,7 +8,7 @@ _Fork_ repositori ini dengan menekan tombol _fork_ yang ada di kanan atas.
 ## _Clone_ repositori di lokal komputer
 Setelah _fork_ selesai, kemudian _clone_ ke lokal komputer masing-masing untuk membuat perubahan
 ```
-git clone git@github.com:YOUR-GITHUB-USERNAME/GresikFunPR.git
+git clone https://github.com/YOUR-GITHUB-USERNAME/GresikFunPR.git
 ```
 ## Tambahkan repo utama sebagai git remote "upstream"
 Masuk ke folder hasil `clone`. Kemudian masukkan
