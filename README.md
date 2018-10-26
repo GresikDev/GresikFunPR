@@ -1,6 +1,9 @@
 # Belajar Membuat PR (Pull Request)
 
-Ikuti langkah-langkah berikut untuk mulai membuat *PR*
+## Apa itu Pull Request?
+_Pull Request_ adalah cara untuk berkontribusi pada suatu proyek _open source_. Dengan membuat _pull request_ ke suatu proyek, kita meminta pemilik / pengelola proyek untuk memeriksa perubahan yang telah kita buat pada _source code_ di repo kita dan menggabungkannya pada repo resmi proyek tersebut.
+
+Ikuti langkah-langkah berikut untuk mulai membuat *PR*. Pada tutorial ini, kita akan belajar membuat _pull request_ dari _fork_.
 
 ## _Fork_ repositori
 _Fork_ repositori ini dengan menekan tombol _fork_ yang ada di kanan atas.
